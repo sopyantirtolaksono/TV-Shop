@@ -1,0 +1,19 @@
+nav {
+    background-color: #3c8dbc !important;
+}
+
+nav .container .navbar-header .navbar-brand {
+    color: white !important;
+}
+
+nav .container .navbar-nav li a {
+    color: white !important;
+}
+
+nav .container .navbar-nav li a:hover {
+    color: lightgray !important;
+}
+
+nav .container .navbar-nav .dropdown .dropdown-menu li a {
+    
+}

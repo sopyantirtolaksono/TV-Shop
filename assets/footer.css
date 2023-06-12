@@ -1,0 +1,25 @@
+.second-footer {
+    background-color: #2a2538;
+}
+
+.second-footer .container .row h1,h3,h4 {
+    color: #fff;
+}
+
+.second-footer .container .row p,h5 {
+    color: #a1a2a3;
+}
+
+.second-footer .container .row a {
+    color: #cecece;
+    text-decoration: none;
+}
+
+.second-footer .container .row a:hover {
+    color: #a1a2a3;
+}
+
+footer {
+    padding: 20px;
+    background-color: #d4d6d8;
+}
